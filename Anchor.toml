@@ -1,13 +1,13 @@
 [features]
 seeds = false
-[programs.localnet]
-myepicsolanaproject = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+myepicsolanaproject = "69FFL93bP9vpVpCvRMxb5LrE1qQZCUbvcVyGjDhdTdfM"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/yihfoo/.config/solana/id.json"
 
 [scripts]
